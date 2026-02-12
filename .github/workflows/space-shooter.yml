@@ -16,4 +16,4 @@ jobs:
        with:
          github-token: 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
          output-path: assets/space-shooter.gif
-         strategy: rando
+         strategy: random
